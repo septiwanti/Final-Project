@@ -1,4 +1,4 @@
-module projectDVN {
+module Restaurant {
     requires spring.context;
     requires spring.beans;
     requires java.sql;
